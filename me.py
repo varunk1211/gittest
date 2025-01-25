@@ -6,3 +6,4 @@ for i in str(a):
 for j in str(b):
     d+=int(j)
 print(c*d)
+print("i am varun")
